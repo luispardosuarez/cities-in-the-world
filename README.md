@@ -2,6 +2,9 @@
 
 This project is part of the Full Stack Bootcamp at Factoría F5, focusing on practicing Bootstrap skills. The goal is to recreate a travel webpage design from Figma.
 
+![image](https://github.com/luispardosuarez/cities-in-the-world/assets/144243096/9cddefb4-d3e5-4089-aa14-d4a9ff3af75f)
+
+
 ## Stacks Used
 
 - HTML
